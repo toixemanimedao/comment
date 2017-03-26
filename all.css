@@ -3826,7 +3826,7 @@ span.page_nav{margin-top:15px;overflow:hidden;clear:both;display:block;text-alig
 .block.hotest .block-title .stars{display:inline;margin-top:15px;}
 .block.hotest .block-title .stars i{background-position:-198px -11px;width:18px;height:18px;margin:13px 3px 0;display:inline-block;}
 .block.hotest .block-title .title{display:inline-block;color:#ddd;text-transform:uppercase;font-size:16px;margin:0 10px;line-height:35px;padding:0 10px;border-bottom:2px solid #ddd;}
-.block.hotest .block-body{overflow:hidden;padding:20px 0;border-bottom:1px solid #e6b12c;}
+.block.hotest .block-body{overflow:hidden;border-bottom:1px solid #e6b12c;}
 .block.hotest .block-body .container{position:relative;overflow:hidden;height:300px;padding-left:0;padding-right:0;}
 .block.hotest .block-body .row .col-lg-1,
 .block.hotest .block-body .row .col-lg-10,
