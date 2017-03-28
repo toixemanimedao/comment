@@ -1,0 +1,42 @@
+.block.info-film{overflow:hidden;padding-bottom:10px;padding: 5px 0px;background: #0F0E0E;}
+.block.info-film .col1 .poster{width:100%;position:relative;}
+.block.info-film .col1 .poster img{-webkit-border-radius:3px;-khtml-border-radius:3px;-moz-border-radius:3px;-ms-border-radius:3px;-o-border-radius:3px;border-radius:3px;border:3px solid rgba(15, 15, 15, 0);width:100%;height:100%;}
+.block.info-film .col1 .poster .status{position:absolute;top:15px;left:1px;background-color:#f3b61c;color:#000;height:29px;line-height:29px;padding:0 8px;text-transform:uppercase;font-weight:700;z-index:5;}
+.block.info-film .col2 dl dd,
+.block.info-film .col2 dl dt{color:#b2b2b2;line-height:21px;font-weight:400;font-size:12px;display:inline;}
+.block.info-film .col2 .name{height:33px;position:relative;padding-top:4px;border-bottom:1px solid #151515;}
+.block.info-film .col2 .name .icon-slash{float:left;}
+.block.info-film .col2 .name h2,
+.block.info-film .col2 .name h3{float:left;margin:0;color:#FFFFFF;text-transform:uppercase;font-size:16px;font-weight:700;display:inline-block;padding-top:4px;}
+.block.info-film .col2 .name dfn{display:inline;font-size:13.5px;color:#45CCFF;}
+.block.info-film .col2 .name2{color:#45CCFF;font-size:14px;margin-bottom:6px;}
+.block.info-film .col2 dl{font-size:14px;overflow:hidden;margin-bottom:10px;}
+.block.info-film .col2 dl dt{float:left;clear:left;margin-right:6px;}
+.block.info-film .col2 dl dd a{color:#45CCFF;font-size:12px;}
+.block.info-film .col2 dl dd.status{color:red;}
+.block.info-film .col2 .extra-info{color:#FFF;height:36px;border-top:1px solid #151515;border-bottom:1px solid #151515;line-height:36px;}
+.block.info-film .col2 .extra-info div{float:left;margin-right:30px;}
+.block.info-film .col2 .extra-info div .fa,
+.block.info-film .col2 .extra-info div .micon{margin-top:10px;margin-right:5px;}
+.block.info-film .col2 .extra-info div i,
+.block.info-film .col2 .extra-info div span{float:left;}
+.block.info-film .col2 .extra-info .like .fa{color:#F0B320;font-size:15px;}
+.block.info-film .col2 .buttons{text-align:left;margin-top:15px;}
+.block.info-film .col2 .buttons .watch{position:relative;width:100%;text-align:center;}
+.block.info-film .col2 .buttons .watch:after,
+.block.info-film .col2 .buttons .watch:before{width:8px;height:40px;top:0;content:"";position:absolute;z-index:100;}
+.block.info-film .col2 .buttons .watch:before{left:-8px;}
+.block.info-film .col2 .buttons .watch:after{right:-8px;}
+.block.info-film .col2 .buttons .watch a{background:#860E0E;height:40px;display:block;line-height:40px;color:#fff;font-size:16px;text-transform:uppercase;font-weight:700;-webkit-transition:background .2s ease-in-out 0s;-khtml-transition:background .2s ease-in-out 0s;-moz-transition:background .2s ease-in-out 0s;-ms-transition:background .2s ease-in-out 0s;-o-transition:background .2s ease-in-out 0s;transition:background .2s ease-in-out 0s;}
+.block.info-film .col2 .buttons .watch a:after,
+.block.info-film .col2 .buttons .watch a:before{width:100%;height:6px;left:0;content:"";position:absolute;z-index:100;}
+.block.info-film .col2 .buttons .watch a:before{top:-6px;}
+.block.info-film .col2 .buttons .watch a:hover{background:#AD0505;}
+.block.info-film .col2 .buttons .watch a .micon.play{margin-right:12px;}
+.block.info-film .col2 .buttons .rating{text-align:center;}
+.block.info-film .col2 .buttons .rating .stars-wrap{margin:0 auto;overflow:hidden;display:block;}
+.block.info-film .col2 .buttons .rating .stars{overflow:hidden;display:inline-block;}
+.block.info-film .col2 .buttons .rating .stars .fa{color:#F0B320;cursor:pointer;font-size:22px;padding:2px 3px;margin:0;float:left;}
+.block.info-film-text{padding:10px;background: #0F0E0E;}
+.block.info-film-text .block-body{font-size:13px;line-height:1.6em;text-align:justify;}
+.block.info-film-text .block-body img{width:100%!important;height:100%!important;border:1px solid rgba(0, 0, 0, 0.46);-webkit-border-radius:2px;-khtml-border-radius:2px;-moz-border-radius:2px;-ms-border-radius:2px;-o-border-radius:2px;border-radius:2px;display:block;margin:0 auto;}
